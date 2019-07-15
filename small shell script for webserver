@@ -3,3 +3,9 @@ echo "this is a webserver" >> /var/www/html/index.html
 systemctl restart httpd
 systemctl enable httpd
 
+
+# !/bin/bash
+echo "hello world" 
+$ chmod a+x hello.sh
+./ hello.sh
+hello world   (Cut-and-paste this code into a file called hello.sh. Then set execute permission on that file and run it like this)
