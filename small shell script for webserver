@@ -1,0 +1,5 @@
+# !/bin/bash
+echo "this is a webserver" >> /var/www/html/index.html
+systemctl restart httpd
+systemctl enable httpd
+
