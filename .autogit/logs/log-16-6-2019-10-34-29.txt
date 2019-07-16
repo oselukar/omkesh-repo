@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Tue Jul 16 2019 10:34:29 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* file2.groovy
+
+
+Deleted files:
+
+
+Renamed files:
